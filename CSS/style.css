@@ -1,0 +1,15 @@
+*{
+margin: 0; 
+padding: 0;
+box-sizing: border-box;
+}
+
+p {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: monospace;
+    background-color: aqua;
+    
+}
